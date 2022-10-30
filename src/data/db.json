@@ -1,0 +1,166 @@
+{
+  "restoran": [
+    {
+      "id": "1",
+      "nama_restoran": "lumpang emas",
+      "rate": "4.7",
+      "poster": "https://i.postimg.cc/xjkNp3jk/resto1.jpg",
+      "jenis_makanan": [
+        {
+          "id": "01",
+          "jenis": "asia"
+        }
+      ],
+      "provinsi": "jakarta selatan",
+      "lokasi": "Rumah UmaraJl. Wijaya II No. 28, Wijaya, Kebayoran Baru",
+      "lokasi_map": "belum ada",
+      "buka_hari": "senin",
+      "buka_jam": "10:00 - 20:00",
+      "harga_minimal": "50000",
+      "harga_maximal": "100000",
+      "banner": "https://i.postimg.cc/GtmkTNT3/banner1.jpg",
+      "rasa": "4.8",
+      "suasaha": "4.7",
+      "harga_rate": "4.5",
+      "pelayanan": "4.8",
+      "telfon": "08433485261"
+    },
+    {
+      "id": "2",
+      "nama_restoran": "sepiring padang",
+      "rate": "4.9",
+      "poster": "https://i.postimg.cc/bvDjfrZR/resto2.jpg",
+      "jenis_makanan": [
+        {
+          "id": "01",
+          "jenis": "asia"
+        }
+      ],
+      "provinsi": "jakarta utara",
+      "lokasi": "Jl. Boulevard Raya Blok QF1 No. 1, Kelapa Gading",
+      "lokasi_map": "belum ada",
+      "buka_hari": "senin",
+      "buka_jam": "08:00 - 21:00",
+      "harga_minimal": "50000",
+      "harga_maximal": "",
+      "banner": "https://i.postimg.cc/nhDqmqrm/banner2.jpg",
+      "rasa": "4.5",
+      "suasaha": "4.7",
+      "harga_rate": "4.9",
+      "pelayanan": "4.3",
+      "telfon": "08433485261"
+    },
+    {
+      "id": "3",
+      "nama_restoran": "soto sob h. asmawi",
+      "rate": "4.7",
+      "poster": "https://i.postimg.cc/wTZVbBdz/resto3.jpg",
+      "jenis_makanan": [
+        {
+          "id": "01",
+          "jenis": "asia"
+        }
+      ],
+      "provinsi": "jakarta selatan",
+      "lokasi": "Jl. Abdul Majid Raya No. 44R, Fatmawati",
+      "lokasi_map": "belum ada",
+      "buka_hari": "",
+      "buka_jam": "",
+      "harga_minimal": "50000",
+      "harga_maximal": "",
+      "banner": "https://i.postimg.cc/J7YXdpBJ/banner3.jpg",
+      "rasa": "4.6",
+      "suasaha": "4.5",
+      "harga_rate": "4.7",
+      "pelayanan": "4.3",
+      "telfon": "08433485261"
+    },
+    {
+      "id": "4",
+      "nama_restoran": "restoran beautika manado",
+      "rate": "4.7",
+      "poster": "https://i.postimg.cc/K8Qnhc64/resto4.jpg",
+      "jenis_makanan": [
+        {
+          "id": "01",
+          "jenis": "asia"
+        }
+      ],
+      "provinsi": "jakarta pusat",
+      "lokasi": "Jl. Abdul Muis No. 70A, Tanah Abang",
+      "lokasi_map": "belum ada",
+      "buka_hari": "senin",
+      "buka_jam": "09:00 - 21:00",
+      "harga_minimal": "100000",
+      "harga_maximal": "200000",
+      "banner": "https://i.postimg.cc/fbvt7CNV/banner4.jpg",
+      "rasa": "4.6",
+      "suasaha": "4.5",
+      "harga_rate": "4.7",
+      "pelayanan": "4.3",
+      "telfon": "08433485261"
+    },
+    {
+      "id": "5",
+      "nama_restoran": "Sate Palmerah Kimtek",
+      "rate": "4.8",
+      "poster": "https://i.postimg.cc/c4zS9fHJ/resto5.jpg",
+      "jenis_makanan": [
+        {
+          "id": "01",
+          "jenis": "asia"
+        }
+      ],
+      "provinsi": "jakarta barat",
+      "lokasi": "Jl. Panjang Arteri Kelapa Dua No. 8A, Kebon Jeruk",
+      "lokasi_map": "belum ada",
+      "buka_hari": "senin",
+      "buka_jam": "11:00 - 21:00",
+      "harga_minimal": "50000",
+      "harga_maximal": "100000",
+      "banner": "https://i.postimg.cc/rs7KyYSP/banner5.jpg",
+      "rasa": "4.6",
+      "suasaha": "4.5",
+      "harga_rate": "4.7",
+      "pelayanan": "4.3",
+      "telfon": "08433485261"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "1",
+      "nama": "sofia",
+      "komentar": "Untuk kedua kalinya aku ke lumpang emas ini, pelayanannya sudah lumayan membaik dari sebelumnya. Untuk kali ini saya hanya memesan makanan ringan untuk menemani di sore hari."
+    },
+    {
+      "id": "2",
+      "nama": "nasya",
+      "komentar": "Pas masuk ke restonya langsung disambut sama lagu jaman dulu, yang bikin nyaman dan santai. Terus keliatan banget tempatnya bersih, interior nya serba coklat kayu dan banyak sentuhan warna putih yang bikin elegant."
+    },
+    {
+      "nama": "aqsal",
+      "komentar": "semoga masukki",
+      "id": "DHr-Zzr"
+    },
+    {
+      "nama": "sallu",
+      "komentar": "masukko komentar",
+      "id": "cCeQydj"
+    },
+    {
+      "nama": "saya lagi",
+      "komentar": "semoga bisa masukki komentarnya kodong",
+      "id": "k8PMKd5"
+    },
+    {
+      "nama": "dia lagi",
+      "komentar": "kucoba lagi semoga berfungsiji refrest na",
+      "id": "cJpNo92"
+    },
+    {
+      "nama": "ayo",
+      "komentar": "bisaji tadi ini",
+      "id": "hJxVkq-"
+    }
+  ]
+}
